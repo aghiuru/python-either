@@ -7,7 +7,7 @@ This is a fork of https://github.com/kennknowles/python-either (since I couldn't
 
 Add to `requirements.txt` file:
 
-```git+git://github.com/aghiuru/pythonp-either.git@master```
+```git+git://github.com/aghiuru/python-either.git@master```
 
 Then install with pip3:
 
